@@ -14,4 +14,8 @@ Consegue criar a tabela pela UI e ver o preview
 Também tem a opção fazendo via comando 
 ![image](https://github.com/user-attachments/assets/af9b6654-34cc-4243-a5ee-bd59fe4194ef)
 
+Foi criado um database por linha de comando e carregado os dados
+![image](https://github.com/user-attachments/assets/edd7cc23-6fb5-4421-8e97-43c5ef643100)
+
+
 
